@@ -1,0 +1,8 @@
+lasio
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scipy
+scikit-learn
